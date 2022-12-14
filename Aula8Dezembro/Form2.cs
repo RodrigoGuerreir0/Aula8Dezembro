@@ -33,7 +33,13 @@ namespace Aula8Dezembro
 
         private void botaoLimpar_Click(object sender, EventArgs e)
         {
-            
+            Tela.Text = "";
+            inputTexto.Text = "";
+        }
+
+        private void Tela_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

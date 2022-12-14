@@ -10,3 +10,4 @@ C:\Users\rodrigo.bguerreiro\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.c
 C:\Users\rodrigo.bguerreiro\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.exe
 C:\Users\rodrigo.bguerreiro\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.pdb
 C:\Users\rodrigo.bguerreiro\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Form2.resources
+C:\Users\rodrigo.bguerreiro\source\repos\Aula8Dezembro\obj\Debug\Aula8Dezembro.Form3.resources

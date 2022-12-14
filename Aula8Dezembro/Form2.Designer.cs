@@ -67,6 +67,7 @@
             this.Tela.Size = new System.Drawing.Size(411, 354);
             this.Tela.TabIndex = 2;
             this.Tela.UseWaitCursor = true;
+            this.Tela.TextChanged += new System.EventHandler(this.Tela_TextChanged);
             // 
             // Form2
             // 
